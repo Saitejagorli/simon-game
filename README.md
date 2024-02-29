@@ -1,1 +1,1 @@
-# simon-game
+https://saitejagorli.github.io/simon-game/
